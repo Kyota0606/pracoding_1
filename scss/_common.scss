@@ -1,0 +1,15 @@
+.SiteWrapper{
+    display: flex;
+    flex-direction: column;
+}
+main{
+    flex: 1;
+    overflow-x: hidden;
+    font-family: Helvetica Neue, Arial, Hiragino Sans, Meiryo, sans-serif;
+}
+.d-f{
+    display: flex;
+}
+a{
+    text-decoration: none;
+}

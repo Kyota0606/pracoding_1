@@ -1,0 +1,18 @@
+.footer_inner{
+    .footer_list{
+        justify-content: center;
+        .footer_item{
+            list-style-type: none;
+            a{
+                color: #2B2A27;
+            }
+            &:nth-child(n+1){
+                margin-left: 20.5px;
+            }
+        }
+    }
+    .copy{
+        text-align: center;
+        margin-top: 20px;
+    }
+}
